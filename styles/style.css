@@ -235,7 +235,6 @@ ol {
   background-color: transparent;
 }
 
-
 /* Псевдоклассы для лэйблов */
 .search-form__label:hover {
   text-decoration: underline 1px #FFF;
