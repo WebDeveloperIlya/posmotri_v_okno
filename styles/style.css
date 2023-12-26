@@ -178,7 +178,7 @@ ol {
 
 .content__card-link{
   display: block;
-  margin-bottom: 6px;
+  margin: 2px;
   text-decoration: none;
 }
 
@@ -233,6 +233,8 @@ ol {
   width: 225px;
   height: 27px;
   background-color: transparent;
+  border-top: 1px solid #FFF;
+  border-bottom: 1px solid #FFF;
 }
 
 /* Псевдоклассы для лэйблов */
